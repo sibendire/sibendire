@@ -73,7 +73,7 @@
 <h2 align="center">👥 Let's Connect</h2>
 
 <p align="center">
-  I'm always excited to collaborate, share insights, and learn from fellow developers. Let's connect and discuss ideas, challenges, and opportunities. You can reach me on <a href="https://www.linkedin.com/in/sibendu/" target="_blank">LinkedIn</a> or drop me an email at <a href="mailto:sibendu@example.com">sibendu@example.com</a>.
+  I'm always excited to collaborate, share insights, and learn from fellow developers. Let's connect and discuss ideas, challenges, and opportunities. You can reach me on <a href="https://www.linkedin.com/in/sibendu/" target="_blank">LinkedIn</a> or drop me an email at <a href="mailto:sibendirejoshua@gmail.com">sibendirejoshua@gmail.com</a>.
 </p>
 
 <hr>
