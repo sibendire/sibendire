@@ -85,7 +85,7 @@
 <hr>
 
 <p align="center">
-  Feel free to reach out via email at <a href="mailto:sibendu@example.com">sibendu@example.com</a>. You can also learn more about my work and journey on my personal website: <a href="https://sibendu.com">sibendu.com</a>.
+  Feel free to reach out via email at <a href="mailto:sibendirejoshua@gmail.com">sibendirejoshua@gmail.com</a>. You can also learn more about my work and journey on my personal website: <a href="https://sibendu.com">sibendu.com</a>.
 </p>
 
 <hr>
