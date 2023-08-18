@@ -86,7 +86,7 @@ LinkedIn</a> or drop me an email at <a href="mailto:sibendirejoshua@gmail.com">s
 <hr>
 
 <p align="center">
-  Feel free to reach out via email at <a href="mailto:sibendirejoshua@gmail.com">sibendirejoshua@gmail.com</a>. You can also learn more about my work and journey on my personal website: <a href="https://sibendu.com">sibendu.com</a>.
+  Feel free to reach out via email at <a href="mailto:sibendirejoshua@gmail.com">sibendirejoshua@gmail.com</a>. You can also learn more about my work and journey on my personal website: <a href="https://sibendire.github.io/portifolio/">sibendire.com</a>.
 </p>
 
 <hr>
