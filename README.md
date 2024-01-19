@@ -15,7 +15,7 @@
 <h2 align="center">🔧 My Experience at OpenMRS</h2>
 
 <p align="center">
-  I've had the privilege of contributing to the <strong>OpenMRS</strong> project for <strong>2 years</strong>. My work involves designing and implementing features, ensuring data integrity, and collaborating with a diverse team of developers to build and enhance healthcare solutions that improve lives.
+  I've had the privilege of contributing to the <strong>OpenMRS</strong> project for <strong>3 years</strong>. My work involves designing and implementing features, ensuring data integrity, and collaborating with a diverse team of developers to build and enhance healthcare solutions that improve lives.
 </p>
 
 <hr>
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Redux%20-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 
   <h3>Back-End Development</h3>
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
   <img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 
