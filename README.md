@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Hello, fellow developers! 👋</strong>
   <br>
-  Welcome to my GitHub profile. I'm <strong>Sibendire</strong>, a passionate software developer with <strong>2 years of experience</strong> at <strong>OpenMRS</strong>. I'm dedicated to creating innovative solutions using a variety of technologies. My expertise spans both frontend and backend development, with a focus on web and mobile applications.
+  Welcome to my GitHub profile. I'm <strong>Sibendire</strong>, a passionate software developer with <strong>3 years of experience</strong> at <strong>OpenMRS</strong>. I'm dedicated to creating innovative solutions using a variety of technologies. My expertise spans both frontend and backend development, with a focus on web and mobile applications.
 </p>
 
 <hr>
