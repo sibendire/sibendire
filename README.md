@@ -31,8 +31,9 @@
   <img src="https://img.shields.io/badge/Redux%20-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 
   <h3>Back-End Development</h3>
+   <img src="https://img.shields.io/badge/Java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+ 
 
   <h3>Database</h3>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
